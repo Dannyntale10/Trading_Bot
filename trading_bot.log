@@ -1,0 +1,72 @@
+2025-07-19 19:16:26,563 - INFO - MT5 connected successfully
+2025-07-19 19:16:26,564 - INFO - MT5 disconnected
+2025-07-19 19:16:26,564 - INFO - Starting trading strategy
+2025-07-19 19:16:26,572 - INFO - MT5 connected successfully
+2025-07-19 19:16:26,572 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 19:17:26,581 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 19:18:26,582 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 19:19:26,583 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 19:20:26,584 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 20:15:49,666 - INFO - MT5 connected successfully
+2025-07-19 20:15:49,667 - INFO - MT5 disconnected
+2025-07-19 20:15:49,668 - INFO - Starting trading strategy
+2025-07-19 20:15:49,679 - INFO - MT5 connected successfully
+2025-07-19 20:15:49,680 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 20:16:35,946 - INFO - MT5 connected successfully
+2025-07-19 20:16:35,947 - INFO - MT5 disconnected
+2025-07-19 20:16:35,947 - INFO - Starting trading strategy
+2025-07-19 20:16:35,957 - INFO - MT5 connected successfully
+2025-07-19 20:16:35,957 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 20:17:41,085 - INFO - MT5 connected successfully
+2025-07-19 20:17:41,085 - INFO - MT5 disconnected
+2025-07-19 20:17:41,086 - INFO - Starting trading strategy
+2025-07-19 20:17:41,094 - INFO - MT5 connected successfully
+2025-07-19 20:17:41,095 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 20:18:41,097 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 20:19:41,100 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 20:20:41,102 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 20:23:26,932 - INFO - MT5 connected successfully
+2025-07-19 20:23:26,932 - INFO - MT5 disconnected
+2025-07-19 20:23:26,932 - INFO - Starting trading strategy
+2025-07-19 20:23:26,942 - INFO - MT5 connected successfully
+2025-07-19 20:23:26,942 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 21:03:22,537 - INFO - MT5 connected successfully
+2025-07-19 21:03:22,538 - INFO - MT5 disconnected
+2025-07-19 21:03:22,538 - INFO - Starting trading strategy
+2025-07-19 21:03:22,544 - INFO - MT5 connected successfully
+2025-07-19 21:03:22,545 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 21:17:17,830 - INFO - MT5 connected successfully
+2025-07-19 21:17:17,830 - INFO - MT5 disconnected
+2025-07-19 21:17:17,830 - INFO - Starting trading strategy
+2025-07-19 21:17:17,838 - INFO - MT5 connected successfully
+2025-07-19 21:17:17,838 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 21:18:00,128 - INFO - MT5 connected successfully
+2025-07-19 21:18:00,129 - INFO - MT5 disconnected
+2025-07-19 21:18:00,129 - INFO - Starting trading strategy
+2025-07-19 21:18:00,136 - INFO - MT5 connected successfully
+2025-07-19 21:18:00,137 - ERROR - Failed to get rates for BTCUSD
+2025-07-19 21:18:19,883 - INFO - MT5 connected successfully
+2025-07-19 21:18:19,883 - INFO - MT5 disconnected
+2025-07-19 21:18:19,884 - INFO - Starting trading strategy
+2025-07-19 21:18:19,891 - INFO - MT5 connected successfully
+2025-07-19 21:18:19,891 - ERROR - Failed to get rates for BTCUSD
+2025-07-20 22:22:06,308 - INFO - MT5 connected successfully
+2025-07-20 22:22:06,310 - INFO - MT5 disconnected
+2025-07-20 22:22:06,311 - INFO - Starting trading strategy
+2025-07-20 22:22:06,322 - INFO - MT5 connected successfully
+2025-07-20 22:22:06,322 - ERROR - Failed to get rates for BTCUSD
+2025-07-21 09:02:10,075 - INFO - MT5 connected successfully
+2025-07-21 09:02:10,076 - INFO - MT5 disconnected
+2025-07-21 09:02:10,076 - INFO - Starting trading strategy
+2025-07-21 09:02:10,086 - INFO - MT5 connected successfully
+2025-07-21 09:02:10,086 - ERROR - Failed to get rates for BTCUSD
+2025-07-21 09:03:10,090 - ERROR - Failed to get rates for BTCUSD
+2025-07-21 09:04:10,093 - ERROR - Failed to get rates for BTCUSD
+2025-07-21 09:05:10,095 - ERROR - Failed to get rates for BTCUSD
+2025-07-21 09:06:18,008 - INFO - MT5 connected successfully
+2025-07-21 09:06:18,009 - INFO - MT5 disconnected
+2025-07-21 09:06:18,010 - INFO - Starting trading strategy
+2025-07-21 09:06:18,020 - INFO - MT5 connected successfully
+2025-07-21 09:06:18,021 - ERROR - Failed to get rates for BTCUSD
+2025-07-21 09:07:18,025 - ERROR - Failed to get rates for BTCUSD
+2025-07-21 09:08:18,028 - ERROR - Failed to get rates for BTCUSD
