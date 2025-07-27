@@ -1,0 +1,11 @@
+streamlit
+MetaTrader5
+flask
+bcrypt
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+sqlalchemy
+stripe

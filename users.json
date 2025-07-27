@@ -1,0 +1,6 @@
+{
+  "admin@example.com": {
+    "password": "$2b$12$6txbtapxwB4mBvdJHqDW6uVlxPSYx1aAqKZXK7GnDkVh4r5cnR61a", 
+    "is_paid": true
+  }
+}
